@@ -1,6 +1,6 @@
 package Task4;
 
-public abstract class OS {
+public class OS {
     static String osType;
 
     public void createApp() {
